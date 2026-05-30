@@ -1,4 +1,4 @@
-# Propuesta Técnico-Comercial: Optimización de Infraestructura SIG con QGIS y OSGeo4W
+# Optimización de Infraestructura SIG con QGIS y OSGeo4W
 
 ## 1. Introducción: El Valor Estratégico del Código Abierto Estructurado
 En el mercado actual, la competitividad de las consultorías, empresas de ingeniería y departamentos de TI depende de la agilidad en el procesamiento de datos y la optimización de los costos de software. La suite **QGIS**, desplegada mediante la arquitectura profesional **OSGeo4W**, representa la alternativa más sólida y rentable frente a los costosos esquemas de licenciamiento comercial tradicionales, ofreciendo potencia analítica sin cargos anuales por asiento de usuario.
