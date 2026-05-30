@@ -1,4 +1,10 @@
-# Optimización de Infraestructura SIG con QGIS y OSGeo4W
+<div align="center">
+    
+# Optimización de Infraestructura SIG con OSGeo4W
+
+[![QGIS Version](https://img.shields.io/badge/QGIS-3.44%2B-green.svg)](https://qgis.org)
+[![Python Version](https://img.shields.io/badge/Python-3.12%2B-blue.svg)](https://python.org)
+</div>
 
 ## 1. Introducción: El Valor Estratégico del Código Abierto Estructurado
 En el mercado actual, la competitividad de las consultorías, empresas de ingeniería y departamentos de TI depende de la agilidad en el procesamiento de datos y la optimización de los costos de software. La suite **QGIS**, desplegada mediante la arquitectura profesional **OSGeo4W**, representa la alternativa más sólida y rentable frente a los costosos esquemas de licenciamiento comercial tradicionales, ofreciendo potencia analítica sin cargos anuales por asiento de usuario.
@@ -33,3 +39,7 @@ Para garantizar una transición exitosa y sin riesgos hacia el ecosistema OSGeo4
 * **Servicio de Auditoría y Configuración Base:** Definición del perfil de instalación ideal (descarte de paquetes innecesarios como conectores obsoletos o versiones inestables).
 * **Capacitación en Gobierno de Plugins:** Entrenamiento para su equipo técnico sobre el uso responsable de extensiones de Python, garantizando la seguridad en los entornos Windows corporativos.
 * **Soporte de Segundo Nivel:** Aseguramiento de la continuidad operativa mediante contratos de soporte especializado para resolución de incidencias en proyectos críticos.
+
+---
+
+- *Guía creada en mayo 2026 por [*Lucho Ferrer*🐍](https://linkedin.com/in/luchofgis) | <luis.ferrer.c@uni.pe>
